@@ -1,6 +1,5 @@
-# Portfolio-DarkAurana
 
-🌌 **Portfolio-DarkAurana**
+# 🌌 Portfolio-DarkAurana
 
 A modern, professional, and visually stunning dark-themed portfolio template designed for freelancers, developers, and creatives who want to make a memorable impression online.
 
@@ -26,14 +25,9 @@ A modern, professional, and visually stunning dark-themed portfolio template des
 
 ---
 
-## 🛠️ Quick Start
-
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/yourusername/portfolio-dark-aurana.git
-   ```
-2. **Open `index.html` in your browser**
-3. Customize content, colors, and sections as needed
+## 🛠️ Used Language
+- HTML: Structure and content of the portfolio
+- CSS: Styling and layout for a visually appealing design
 
 ---
 
@@ -62,13 +56,9 @@ A modern, professional, and visually stunning dark-themed portfolio template des
 
 ## 📬 Contact & Support
 
-Have questions or need help? [Open an issue](https://github.com/yourusername/portfolio-dark-aurana/issues) or reach out via email!
+Have questions or need help? [Open an issue](https://github.com/Ahmed-Gebaly/portfolio-dark-aurana/issues) or reach out via email!
 
----
-
-## 📝 License
-
-MIT — Free for personal and commercial use. Attribution appreciated!
+**Email:** ahmed.a.elgebaly.95@gmail.com
 
 ---
 
